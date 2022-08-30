@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Carolina Hall JSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -79.050287961027294, 35.911281002723719 ], [ -79.050212368048463, 35.911136839252215 ], [ -79.049727487641817, 35.911309080629614 ], [ -79.049829442046018, 35.911450597633696 ], [ -79.050287961027294, 35.911281002723719 ] ] ] ] } }
+]
+}
